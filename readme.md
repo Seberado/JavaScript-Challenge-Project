@@ -3,3 +3,8 @@
 # JavaScript
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+
+# JavaScript-Project
+
+1. Momentum - Javascript
+2. Painter - Javascript
